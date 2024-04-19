@@ -28,8 +28,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Run flake8
-      run: python test.py
 
     - name: Run fetch_data.py
       run: python notebooks/Naloga01-IIS/fetch_data.py

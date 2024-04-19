@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OpenStreetMap</title>
+    <style>
+        #map {
+            height: 100vh;
+            width: calc(100% - 300px);
+            float: right;
+        }
+        #sidebar {
+            width: 300px;
+            float: left;
+            height: 100vh;
+            overflow: auto;
+            background-color: #f2f2f2;
+
+        }
+        #loading {
+            display: none; /* Skrij ikono med nalaganjem */
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 9999;
+        }
+        /* Dodani stil za napovedi */
+        #Napovedi {
+            font-family: Arial, sans-serif;
+            padding: 10px;
+            border: 2px solid #ccc;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+            margin-top: 20px;
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+        #Napovedi h3 {
+            margin-top: 0;
+            color: #333;
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        #Napovedi ul {
+            list-style-type: none;
+            padding: 2px;
+        }
+        #Napovedi li {
+            margin-bottom: 5px;
+            font-size: 16px;
+            margin-left: 2px; /* Dodaje margin-left od 20 piksela */
+        }
+        .interval {
+            font-weight: bold;
+            color: #007bff;
+        }
+    </style>
+</head>
+<body>
+<div id="sidebar">
+    <!-- Spremenjeno id na "Napovedi" -->
+    <div id="Napovedi"></div>
+</div>
+<div id="map"></div>
+<div id="loading">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/spinner.gif" alt="Loading..." width="50" height="50">
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> <!-- Include jQuery for AJAX -->
+<script>
+    var map = L.map('map').setView([46.562695, 15.62935], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+    }).addTo(map);
+    var marker = L.marker([46.562695, 15.62935]).addTo(map)
+        .bindPopup('Gosposvetska cesta 69, Maribor')
+        .openPopup();
+    marker.on('click', function() {
+        $('#loading').show(); // Prikaži ikono med nalaganjem
+        $.ajax({
+            url: 'http://localhost:5000/predict/naloga02',
+            type: 'GET',
+            success: function(response) {
+                var prediction = response.prediction;
+                // Spremenjeno id na "Napovedi"
+                var predictionHTML = '<h3>Napovedi v časovnih intervalih</h3><ul>';
+                for (var i = 0; i < prediction.length; i++) {
+                    predictionHTML += '<li><span class="interval">Interval ' + (i+1) + ':</span> ' + prediction[i] + '</li>';
+                }
+                predictionHTML += '</ul>';
+                // Spremenjeno id na "Napovedi"
+                $('#Napovedi').html(predictionHTML);
+                $('#loading').hide(); // Skrij ikono po uspešnem nalaganju
+            },
+            error: function(xhr, status, error) {
+                console.log(xhr);
+                console.log(status);
+                console.log(error);
+                $('#loading').hide();
+                alert('Napaka pri pridobivanju podatkov: ' + error);
+            }
+        });
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+number,contract_name,name,address,position,banking,bonus,bike_stands,available_bike_stands,available_bikes,status,last_update
+23,maribor,LJUBLJANSKA UL. - FOCHEVA,LJUBLJANSKA 41,"{'lat': 46.545947, 'lng': 15.644015}",False,False,20,14,6,OPEN,2024-04-15 22:00:42
+23,maribor,LJUBLJANSKA UL. - FOCHEVA,LJUBLJANSKA 41,"{'lat': 46.545947, 'lng': 15.644015}",False,False,20,14,6,OPEN,2024-04-15 22:00:42
+23,maribor,LJUBLJANSKA UL. - FOCHEVA,LJUBLJANSKA 41,"{'lat': 46.545947, 'lng': 15.644015}",False,False,20,14,6,OPEN,2024-04-15 22:00:42
+23,maribor,LJUBLJANSKA UL. - FOCHEVA,LJUBLJANSKA 41,"{'lat': 46.545947, 'lng': 15.644015}",False,False,20,14,6,OPEN,2024-04-16 00:00:42+02:00
+23,maribor,LJUBLJANSKA UL. - FOCHEVA,LJUBLJANSKA 41,"{'lat': 46.545947, 'lng': 15.644015}",False,False,20,14,6,OPEN,2024-04-16 00:00:42+02:00
+23,maribor,LJUBLJANSKA UL. - FOCHEVA,LJUBLJANSKA 41,"{'lat': 46.545947, 'lng': 15.644015}",False,False,20,14,6,OPEN,2024-04-16 00:10:47+02:00
+23,maribor,LJUBLJANSKA UL. - FOCHEVA,LJUBLJANSKA 41,"{'lat': 46.545947, 'lng': 15.644015}",False,False,20,14,6,OPEN,2024-04-16 00:10:47+02:00
+23,maribor,LJUBLJANSKA UL. - FOCHEVA,LJUBLJANSKA 41,"{'lat': 46.545947, 'lng': 15.644015}",False,False,20,10,10,OPEN,2024-04-16 11:46:13+02:00

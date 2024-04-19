@@ -1,0 +1,1439 @@
+[
+
+
+
+
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 20,
+    "available_bikes": 2,
+    "status": "OPEN",
+    "last_update": "2024-04-16T13:57:11+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 20,
+    "available_bikes": 2,
+    "status": "OPEN",
+    "last_update": "2024-04-16T13:57:11+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 20,
+    "available_bikes": 2,
+    "status": "OPEN",
+    "last_update": "2024-04-16T13:57:11+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 20,
+    "available_bikes": 2,
+    "status": "OPEN",
+    "last_update": "2024-04-16T14:17:21+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 20,
+    "available_bikes": 2,
+    "status": "OPEN",
+    "last_update": "2024-04-16T14:27:26+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 20,
+    "available_bikes": 2,
+    "status": "OPEN",
+    "last_update": "2024-04-16T14:27:26+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 20,
+    "available_bikes": 2,
+    "status": "OPEN",
+    "last_update": "2024-04-16T14:27:26+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 19,
+    "available_bikes": 3,
+    "status": "OPEN",
+    "last_update": "2024-04-16T14:33:10+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 19,
+    "available_bikes": 3,
+    "status": "OPEN",
+    "last_update": "2024-04-16T14:33:10+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 19,
+    "available_bikes": 3,
+    "status": "OPEN",
+    "last_update": "2024-04-16T14:33:10+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 19,
+    "available_bikes": 3,
+    "status": "OPEN",
+    "last_update": "2024-04-16T14:37:32+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 12,
+    "available_bikes": 10,
+    "status": "OPEN",
+    "last_update": "2024-04-16T15:48:45+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 10,
+    "available_bikes": 12,
+    "status": "OPEN",
+    "last_update": "2024-04-16T19:52:53+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 3,
+    "available_bikes": 19,
+    "status": "OPEN",
+    "last_update": "2024-04-16T21:27:36+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 4,
+    "available_bikes": 18,
+    "status": "OPEN",
+    "last_update": "2024-04-16T21:40:01+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 3,
+    "available_bikes": 19,
+    "status": "OPEN",
+    "last_update": "2024-04-16T22:45:19+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 4,
+    "available_bikes": 18,
+    "status": "OPEN",
+    "last_update": "2024-04-16T22:53:03+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 7,
+    "available_bikes": 15,
+    "status": "OPEN",
+    "last_update": "2024-04-16T23:03:14+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 2,
+    "available_bikes": 20,
+    "status": "OPEN",
+    "last_update": "2024-04-17T00:10:13+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 3,
+    "available_bikes": 19,
+    "status": "OPEN",
+    "last_update": "2024-04-17T01:07:11+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 22,
+    "available_bikes": 0,
+    "status": "OPEN",
+    "last_update": "2024-04-17T02:45:48+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 22,
+    "available_bikes": 0,
+    "status": "OPEN",
+    "last_update": "2024-04-17T03:41:43+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 22,
+    "available_bikes": 0,
+    "status": "OPEN",
+    "last_update": "2024-04-17T04:11:59+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 22,
+    "available_bikes": 0,
+    "status": "OPEN",
+    "last_update": "2024-04-17T05:02:26+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 22,
+    "available_bikes": 0,
+    "status": "OPEN",
+    "last_update": "2024-04-17T06:13:03+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 22,
+    "available_bikes": 0,
+    "status": "OPEN",
+    "last_update": "2024-04-17T07:03:30+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 22,
+    "available_bikes": 0,
+    "status": "OPEN",
+    "last_update": "2024-04-17T08:14:42+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 22,
+    "available_bikes": 0,
+    "status": "OPEN",
+    "last_update": "2024-04-17T09:07:25+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 22,
+    "available_bikes": 0,
+    "status": "OPEN",
+    "last_update": "2024-04-17T10:05:25+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 22,
+    "available_bikes": 0,
+    "status": "OPEN",
+    "last_update": "2024-04-17T10:45:57+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 22,
+    "available_bikes": 0,
+    "status": "OPEN",
+    "last_update": "2024-04-17T10:56:38+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 20,
+    "available_bikes": 2,
+    "status": "OPEN",
+    "last_update": "2024-04-17T11:07:17+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 20,
+    "available_bikes": 2,
+    "status": "OPEN",
+    "last_update": "2024-04-17T11:10:54+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 19,
+    "available_bikes": 3,
+    "status": "OPEN",
+    "last_update": "2024-04-17T12:06:55+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 20,
+    "available_bikes": 2,
+    "status": "OPEN",
+    "last_update": "2024-04-17T13:07:49+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 14,
+    "available_bikes": 8,
+    "status": "OPEN",
+    "last_update": "2024-04-17T14:18:59+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 21,
+    "available_bikes": 1,
+    "status": "OPEN",
+    "last_update": "2024-04-17T15:09:43+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 21,
+    "available_bikes": 1,
+    "status": "OPEN",
+    "last_update": "2024-04-17T15:09:43+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 13,
+    "available_bikes": 9,
+    "status": "OPEN",
+    "last_update": "2024-04-17T16:06:32+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 17,
+    "available_bikes": 5,
+    "status": "OPEN",
+    "last_update": "2024-04-17T17:12:24+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 11,
+    "available_bikes": 11,
+    "status": "OPEN",
+    "last_update": "2024-04-17T18:14:37+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 10,
+    "available_bikes": 12,
+    "status": "OPEN",
+    "last_update": "2024-04-17T19:05:34+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 12,
+    "available_bikes": 10,
+    "status": "OPEN",
+    "last_update": "2024-04-17T20:12:19+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 3,
+    "available_bikes": 19,
+    "status": "OPEN",
+    "last_update": "2024-04-17T21:06:59+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 1,
+    "available_bikes": 21,
+    "status": "OPEN",
+    "last_update": "2024-04-17T22:11:02+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 4,
+    "available_bikes": 18,
+    "status": "OPEN",
+    "last_update": "2024-04-17T23:05:17+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 14,
+    "available_bikes": 8,
+    "status": "OPEN",
+    "last_update": "2024-04-18T00:05:00+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 7,
+    "available_bikes": 15,
+    "status": "OPEN",
+    "last_update": "2024-04-18T01:11:19+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 6,
+    "available_bikes": 16,
+    "status": "OPEN",
+    "last_update": "2024-04-18T02:42:07+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 5,
+    "available_bikes": 17,
+    "status": "OPEN",
+    "last_update": "2024-04-18T03:40:41+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 5,
+    "available_bikes": 17,
+    "status": "OPEN",
+    "last_update": "2024-04-18T04:10:56+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 5,
+    "available_bikes": 17,
+    "status": "OPEN",
+    "last_update": "2024-04-18T05:01:22+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 5,
+    "available_bikes": 17,
+    "status": "OPEN",
+    "last_update": "2024-04-18T06:12:01+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 15,
+    "available_bikes": 7,
+    "status": "OPEN",
+    "last_update": "2024-04-18T07:02:41+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 20,
+    "available_bikes": 2,
+    "status": "OPEN",
+    "last_update": "2024-04-18T08:13:57+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 22,
+    "available_bikes": 0,
+    "status": "OPEN",
+    "last_update": "2024-04-18T09:04:37+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 7,
+    "available_bikes": 15,
+    "status": "OPEN",
+    "last_update": "2024-04-18T10:14:34+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 11,
+    "available_bikes": 11,
+    "status": "OPEN",
+    "last_update": "2024-04-18T11:11:07+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 8,
+    "available_bikes": 14,
+    "status": "OPEN",
+    "last_update": "2024-04-18T12:13:13+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 12,
+    "available_bikes": 10,
+    "status": "OPEN",
+    "last_update": "2024-04-18T13:07:40+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 14,
+    "available_bikes": 8,
+    "status": "OPEN",
+    "last_update": "2024-04-18T14:19:07+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 19,
+    "available_bikes": 3,
+    "status": "OPEN",
+    "last_update": "2024-04-18T15:09:22+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 3,
+    "available_bikes": 19,
+    "status": "OPEN",
+    "last_update": "2024-04-18T16:09:38+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 11,
+    "available_bikes": 11,
+    "status": "OPEN",
+    "last_update": "2024-04-18T17:11:11+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 17,
+    "available_bikes": 5,
+    "status": "OPEN",
+    "last_update": "2024-04-18T18:13:03+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 15,
+    "available_bikes": 7,
+    "status": "OPEN",
+    "last_update": "2024-04-18T19:09:41+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 16,
+    "available_bikes": 6,
+    "status": "OPEN",
+    "last_update": "2024-04-18T20:13:41+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 13,
+    "available_bikes": 9,
+    "status": "OPEN",
+    "last_update": "2024-04-18T21:07:35+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 12,
+    "available_bikes": 10,
+    "status": "OPEN",
+    "last_update": "2024-04-18T22:05:51+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 7,
+    "available_bikes": 15,
+    "status": "OPEN",
+    "last_update": "2024-04-18T23:08:51+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 6,
+    "available_bikes": 16,
+    "status": "OPEN",
+    "last_update": "2024-04-19T00:06:14+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 6,
+    "available_bikes": 16,
+    "status": "OPEN",
+    "last_update": "2024-04-19T01:06:45+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 5,
+    "available_bikes": 17,
+    "status": "OPEN",
+    "last_update": "2024-04-19T02:47:38+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 5,
+    "available_bikes": 17,
+    "status": "OPEN",
+    "last_update": "2024-04-19T03:40:42+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 5,
+    "available_bikes": 17,
+    "status": "OPEN",
+    "last_update": "2024-04-19T04:21:03+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 6,
+    "available_bikes": 16,
+    "status": "OPEN",
+    "last_update": "2024-04-19T05:03:54+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 7,
+    "available_bikes": 15,
+    "status": "OPEN",
+    "last_update": "2024-04-19T06:12:04+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 10,
+    "available_bikes": 12,
+    "status": "OPEN",
+    "last_update": "2024-04-19T07:07:43+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 20,
+    "available_bikes": 2,
+    "status": "OPEN",
+    "last_update": "2024-04-19T08:13:33+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 19,
+    "available_bikes": 3,
+    "status": "OPEN",
+    "last_update": "2024-04-19T09:04:09+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 8,
+    "available_bikes": 14,
+    "status": "OPEN",
+    "last_update": "2024-04-19T10:12:19+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 11,
+    "available_bikes": 11,
+    "status": "OPEN",
+    "last_update": "2024-04-19T11:06:24+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 10,
+    "available_bikes": 12,
+    "status": "OPEN",
+    "last_update": "2024-04-19T12:09:55+0200"
+  },
+  {
+    "number": 1,
+    "contract_name": "maribor",
+    "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
+    "address": "Gosposvetska cesta 69",
+    "position": {
+      "lat": 46.562695,
+      "lng": 15.62935
+    },
+    "banking": false,
+    "bonus": false,
+    "bike_stands": 22,
+    "available_bike_stands": 21,
+    "available_bikes": 1,
+    "status": "OPEN",
+    "last_update": "2024-04-19T13:07:41+0200"
+  }
+]
+
+
+
+
+

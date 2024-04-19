@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "StrojnoUcenje"
+version = "0.1.0"
+description = "Naloga01"
+authors = ["Avtor <benjamin.petelinek@email.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.3.0"
+matplotlib = "^3.4.2"
+scikit-learn = "^0.24.2"
+tensorflow = "^2.7.0"
+flask = "^2.0.1"
+keras = "^2.6.0"
+joblib = "^1.1.0"
+numpy = "^1.21.0"
+requests = "^2.26.0"
+json = "^0.9.7"
+
+[tool.poetry.dev-dependencies]
+unittest = "^3.9.0"
+subprocess32 = "^3.5.4"

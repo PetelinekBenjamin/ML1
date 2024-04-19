@@ -1,0 +1,45 @@
+name: Docker Image CI
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+  schedule:
+    - cron: '0 * * * *'  # Ta vrstica pomeni, da se akcija izvede ob začetku vsake ure
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run flake8
+      run: python test.py
+
+    - name: Run fetch_data.py
+      run: python notebooks/Naloga01-IIS/fetch_data.py
+
+    - name: Run pre_process.py
+      run: python notebooks/Naloga01-IIS/pre_process.py
+
+    - name: Commit and push
+      run: |
+        git config user.name "Benjamin"
+        git config user.email "benjamin.petelinek@gmail.com"
+        git add .
+        git commit -m "Update changes"
+        git push

@@ -1726,8 +1726,9 @@ number,contract_name,name,address,position,banking,bonus,bike_stands,available_b
 1,maribor,GOSPOSVETSKA C. - TURNERJEVA UL.,Gosposvetska cesta 69,"{'lat': 46.562695, 'lng': 15.62935}",False,False,22,14,8,OPEN,2024-06-27 18:14:02+02:00,25.3,58.0,16.4,26.5,72.0
 1,maribor,GOSPOSVETSKA C. - TURNERJEVA UL.,Gosposvetska cesta 69,"{'lat': 46.562695, 'lng': 15.62935}",False,False,22,13,9,OPEN,2024-06-27 19:12:35+02:00,24.8,65.0,17.8,27.2,66.0
 1,maribor,GOSPOSVETSKA C. - TURNERJEVA UL.,Gosposvetska cesta 69,"{'lat': 46.562695, 'lng': 15.62935}",False,False,22,21,1,OPEN,2024-06-27 20:13:33+02:00,24.6,60.0,16.3,26.2,61.0
-1,maribor,GOSPOSVETSKA C. - TURNERJEVA UL.,Gosposvetska cesta 69,"{'lat': 46.562695, 'lng': 15.62935}",False,False,22,19,3,OPEN,2024-06-27 21:09:37+02:00,23.7,66.0,17.0,25.7,42.0
-1,maribor,GOSPOSVETSKA C. - TURNERJEVA UL.,Gosposvetska cesta 69,"{'lat': 46.562695, 'lng': 15.62935}",False,False,22,11,11,OPEN,2024-06-27 22:10:49+02:00,21.5,80.0,17.9,23.2,22.0
-1,maribor,GOSPOSVETSKA C. - TURNERJEVA UL.,Gosposvetska cesta 69,"{'lat': 46.562695, 'lng': 15.62935}",False,False,22,10,12,OPEN,2024-06-27 23:05:40+02:00,21.0,81.0,17.7,22.7,3.0
-1,maribor,GOSPOSVETSKA C. - TURNERJEVA UL.,Gosposvetska cesta 69,"{'lat': 46.562695, 'lng': 15.62935}",False,False,22,14,8,OPEN,2024-06-28 00:07:33+02:00,19.9,88.0,17.9,22.3,2.0
-1,maribor,GOSPOSVETSKA C. - TURNERJEVA UL.,Gosposvetska cesta 69,"{'lat': 46.562695, 'lng': 15.62935}",False,False,22,13,9,OPEN,2024-06-28 01:07:07+02:00,19.5,86.0,17.1,21.4,1.0
+1,maribor,GOSPOSVETSKA C. - TURNERJEVA UL.,Gosposvetska cesta 69,"{'lat': 46.562695, 'lng': 15.62935}",False,False,22,19,3,OPEN,2024-06-27 21:09:37+02:00,23.7,66.0,17.0,25.7,52.0
+1,maribor,GOSPOSVETSKA C. - TURNERJEVA UL.,Gosposvetska cesta 69,"{'lat': 46.562695, 'lng': 15.62935}",False,False,22,11,11,OPEN,2024-06-27 22:10:49+02:00,21.5,80.0,17.9,23.2,44.0
+1,maribor,GOSPOSVETSKA C. - TURNERJEVA UL.,Gosposvetska cesta 69,"{'lat': 46.562695, 'lng': 15.62935}",False,False,22,10,12,OPEN,2024-06-27 23:05:40+02:00,21.0,81.0,17.7,22.7,35.0
+1,maribor,GOSPOSVETSKA C. - TURNERJEVA UL.,Gosposvetska cesta 69,"{'lat': 46.562695, 'lng': 15.62935}",False,False,22,14,8,OPEN,2024-06-28 00:07:33+02:00,19.9,88.0,17.9,22.3,31.0
+1,maribor,GOSPOSVETSKA C. - TURNERJEVA UL.,Gosposvetska cesta 69,"{'lat': 46.562695, 'lng': 15.62935}",False,False,22,13,9,OPEN,2024-06-28 01:07:07+02:00,19.5,86.0,17.1,21.4,27.0
+1,maribor,GOSPOSVETSKA C. - TURNERJEVA UL.,Gosposvetska cesta 69,"{'lat': 46.562695, 'lng': 15.62935}",False,False,22,10,12,OPEN,2024-06-28 02:48:03+02:00,20.0,82.0,16.8,21.6,15.0

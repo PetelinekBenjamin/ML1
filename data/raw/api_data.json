@@ -41478,5 +41478,22 @@
         "available_bikes":10,
         "status":"OPEN",
         "last_update":"2024-07-28T16:08:31+0200"
+    },
+    {
+        "number":1,
+        "contract_name":"maribor",
+        "name":"GOSPOSVETSKA C. - TURNERJEVA UL.",
+        "address":"Gosposvetska cesta 69",
+        "position":{
+            "lat":46.562695,
+            "lng":15.62935
+        },
+        "banking":false,
+        "bonus":false,
+        "bike_stands":22,
+        "available_bike_stands":11,
+        "available_bikes":11,
+        "status":"OPEN",
+        "last_update":"2024-07-28T17:08:37+0200"
     }
 ]

@@ -1,7 +1,7 @@
 {
     "latitude": 46.56,
     "longitude": 15.619999,
-    "generationtime_ms": 6.560087203979492,
+    "generationtime_ms": 0.988006591796875,
     "utc_offset_seconds": 7200,
     "timezone": "Europe/Berlin",
     "timezone_abbreviation": "CEST",
@@ -4625,14 +4625,14 @@
             0,
             0,
             0,
+            0,
+            0,
+            0,
+            0,
+            0,
             3,
             3,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            5,
             3
         ]
     }

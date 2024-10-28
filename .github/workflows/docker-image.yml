@@ -6,8 +6,7 @@ on:
     branches: [ "master" ]
   pull_request:
     branches: [ "master" ]
-  schedule:
-    - cron: '0 * * * *'  # Ta vrstica pomeni, da se akcija izvede ob začetku vsake ure
+  
 
 jobs:
 
